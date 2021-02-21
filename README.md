@@ -1,6 +1,6 @@
 # Equal-Weight NIFTY 500 Index Fund
 
-The goal of this projrct is to create a Python script that will accept the value of your portfolio and tell you how many shares of each NIFTY 500 constituent you should purchase to get an equal-weight version of the index fund.
+The goal of this project is to create a Python script that will accept the value of your portfolio and tell you how many shares of each NIFTY 500 constituent you should purchase to get an equal-weight version of the index fund.
 
 ## Installation
 
