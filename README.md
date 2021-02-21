@@ -23,4 +23,4 @@ Our final result will be an excel sheet giving us the number of shares we should
 Abhin Jakhmola
 
 Student at BITS Pilani KK Birla Goa Campus, enthusiastic towards coding, computation and finance.
-LinkedIn: GOTO: https://www.linkedin.com/in/abhin-jakhmola/
+LinkedIn: https://www.linkedin.com/in/abhin-jakhmola/
